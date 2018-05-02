@@ -24,7 +24,7 @@
 		</div>
 
 		<div class="quizQuestion">
-			<p class="question">This is how you use ssh.</p>
+			<p class="question">2. This is how you use ssh.</p>
 
 		<input class="answer" type="radio" name="q2" value="0">
 		<label for="q2a1">ssh hostname@user</label>
@@ -56,7 +56,7 @@
 		</div>
 
 		<div class="quizQuestion">
-			<p class="question">This is the protocol FileZilla uses</p>
+			<p class="question">4. This is the protocol FileZilla uses</p>
 
 		<input class="answer" type="radio" name="q4" value="0">
 		<label for="q4a1">fcp</label>
