@@ -228,7 +228,9 @@ main > pre.preBox {
     background-color:#1d1c1f;
     transition: background 0.5s ease-in-out;
 }
-
+.sideNav li{
+    transition: background 1.5s;
+}
 .sideNav li:hover{
    background:#4f4e4e;
 }
