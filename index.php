@@ -23,6 +23,8 @@
 		include($path.'assets/inc/howto.php');
 	?>
 
+	<br>
+
 	<?php
 		include($path.'assets/inc/terminal.php');
 	?>
