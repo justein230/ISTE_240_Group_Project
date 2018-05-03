@@ -107,6 +107,10 @@ table tr th, table tr td {
 	padding: .75em;
 }
 
+table, td, th {
+    border: 1px solid gray;
+}
+
 .hide {
     display: none;
 }

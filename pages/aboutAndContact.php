@@ -17,13 +17,13 @@
 ?>
 
 	<div class="commentsDiv">
-		<form action="" method="post">
+		<form action="aboutAndContact.php" method="post">
 			<input type="text" placeholder="Name" name="name"><br><br>
 			<textarea name="comment" placeholder="comment" cols="30" rows="10"></textarea><br><br>
 			<input type="submit">
 		</form><br><br>
 
-		<table border="1">
+		<table>
 			<tr>
 				<th>Name</th>
 				<th>Comment</th>
