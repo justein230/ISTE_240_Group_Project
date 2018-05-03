@@ -19,7 +19,9 @@
 		 It teaches them all the basic commands and flags associated with each command.
 	</p>
 
-	<?php include($path.'assets/inc/terminal.php'); ?>
+	<?php
+		include($path.'assets/inc/howto.php');
+	?>
 
 	<h2>A Little About Us</h2>
 	<hr>
